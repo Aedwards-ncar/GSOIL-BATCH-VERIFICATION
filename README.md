@@ -2,7 +2,8 @@
 
 Interactive heatmap visualization for ground soil heat flux sensor batch verification testing at NCAR's Earth Observing Laboratory.
 
-**Live site:** [aedwards-ucar.github.io/GSOIL-BATCH-VERIFICATION/gsoil_heatmap.html](https://aedwards-ucar.github.io/GSOIL-BATCH-VERIFICATION/gsoil_heatmap.html)
+**Live site:** [aedwards-ncar.github.io/GSOIL-BATCH-VERIFICATION/gsoil_heatmap.html](https://aedwards-ncar.github.io/GSOIL-BATCH-VERIFICATION/gsoil_heatmap.html)
+
 
 ---
 

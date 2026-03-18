@@ -2,7 +2,7 @@
 
 Interactive visualization and analysis tools for ground soil heat flux sensor batch verification testing at NCAR's Earth Observing Laboratory, Callab.
 
-**Live site:** [aedwards-ucar.github.io/GSOIL-BATCH-VERIFICATION](https://aedwards-ucar.github.io/GSOIL-BATCH-VERIFICATION/)
+**Live site:** [aedwards-ncar.github.io/GSOIL-BATCH-VERIFICATION](https://aedwards-ncar.github.io/GSOIL-BATCH-VERIFICATION/)
 
 ---
 
